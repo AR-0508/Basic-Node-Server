@@ -1,0 +1,21 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AR-0508/Basic-Node-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AR-0508/Basic-Node-Server/issues"
+  },
+  "homepage": "https://github.com/AR-0508/Basic-Node-Server#readme"
+}
