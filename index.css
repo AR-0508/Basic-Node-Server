@@ -35,6 +35,11 @@ html,body{
     color : rgb(158, 155, 155);
 }
 
+.link-items a{
+  text-decoration : none;
+  color : inherit;
+}
+
 .link-items:hover{
     color : white;
     cursor : pointer;
@@ -62,14 +67,15 @@ html,body{
 .main-btns{
     display : flex;
     gap : 2rem;
+    cursor: pointer;
 }
 
-.main-btns button{
-    font-size : 1.1rem;
+.main-btns a{
+    text-decoration: none;
+    color : inherit;
     padding : 10px 20px 10px 20px;
-    border-radius : 15px;
-    border : none;
-    font-weight: 700px;
+    border-radius: 15px;
+    font-weight : 500;
 }
 
 .learn-more-btn{
