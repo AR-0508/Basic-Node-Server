@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AR-0508/Basic-Node-Server/issues"
   },
-  "homepage": "https://github.com/AR-0508/Basic-Node-Server#readme"
+  "homepage": "https://github.com/AR-0508/Basic-Node-Server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
